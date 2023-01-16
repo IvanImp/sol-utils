@@ -1,2 +1,2 @@
 # sol-utils
-Utilities library for solidity
+A collection of utility functions for Solidity
